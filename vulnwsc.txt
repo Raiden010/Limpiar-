@@ -1,0 +1,141 @@
+ADSL RT2860
+Punto de acceso inalámbrico AIR3G WSC Dispositivo AIR3G WSC
+AP Gigabit inalámbrico AirLive AP Gigabit inalámbrico AirLive
+Arquero_A9 1.0
+Arquero A2 5.0
+Arquero A5 4.0
+Arquero C2 1.0
+Arquero C2 3.0
+Arquero C5 4.0
+Arquero C6U 1.0.0
+Arquero C20 1.0
+Arquero C20 4.0
+Arquero C20 5.0
+Arquero C50 1.0
+Arquero C50 3.0
+Arquero C50 4.0
+Arquero C50 5.0
+Arquero C50 6.0
+Arquero MR200 1.0
+Arquero MR200 4.0
+Arquero MR200 5.0
+Arquero VR300 1.20
+Arquero VR400 3.0
+ENLACE B 123456
+Belkin AP EV-2012-09-01
+DAP-1360 DAP-1360
+DIR-819 v1.0.1
+DIR-842 DIR-842
+DWR-921C3 WBR-0001
+Enrutador D-Link N GO-RT-N150
+Enrutador D-Link DIR-605L
+Enrutador D-Link DIR-615H1
+Enrutador D-Link DIR-655
+Enrutador D-Link DIR-809
+EC120-F5 1,0
+EV-2009-02-06
+Enrutador inalámbrico mejorado F6D4230-4 v1
+Inicio Centro de Internet Serie KEENETIC
+Inicio Centro de Internet Serie Keenetic
+Punto de acceso inalámbrico Huawei RT2860
+JWNR2000v2 (AP inalámbrico) JWNR2000v2
+Serie Keenetic
+Punto de acceso inalámbrico Linksys EA7500
+Enrutador inalámbrico Linksys WRT110
+NBG-419N NBG-419N
+Netgear AP EV-2012-08-04
+Punto de acceso inalámbrico NETGEAR R6220
+Punto de acceso inalámbrico NETGEAR R6260
+N/A EV-2010-09-20
+Punto de acceso inalámbrico Ralink RT2860
+Punto de acceso inalámbrico Ralink WR-AC1210
+RTL8196E
+RTL8xxx EV-2009-02-06
+RTL8xxx EV-2010-09-20
+RTL8xxx RTK_ECOS
+RT-G32 1234
+Enrutador inalámbrico Sitecom 300N X2 300N
+Enrutador inteligente R3 RT2860
+Tenda 123456
+Timo RA300R4 Timo RA300R4
+TD-W8151N RT2860
+TD-W8901N RT2860
+TD-W8951ND RT2860
+TD-W9960 1.0
+TD-W9960 1.20
+TD-W9960v 1.0
+TD-W8968 2.0
+TL-MR3020 3.0
+TL-MR3420 5.0
+TL-MR6400 3.0
+TL-MR6400 4.0
+TL-WA855RE 4.0
+TL-WR840N 4.0
+TL-WR840N 5.0
+TL-WR840N 6.0
+TL-WR841N 13.0
+TL-WR841N 14.0
+TL-WR841HP 5.0
+TL-WR842N 5.0
+TL-WR845N 3.0
+TL-WR845N 4.0
+TL-WR850N 1.0
+TL-WR850N 2.0
+TL-WR850N 3.0
+TL-WR1042N EV-2010-09-20
+Enrutador Trendnet TEW-625br
+Enrutador Trendnet TEW-651br
+VMG3312-T20A RT2860
+VMG8623-T50A RT2860
+WAP300N WAP300N
+WAP3205WAP3205
+Enrutador de configuración protegida Wi-Fi RT-AC1200G+
+Enrutador de configuración protegida Wi-Fi RT-N10U
+Enrutador de configuración protegida Wi-Fi RT-N12
+Enrutador de configuración protegida Wi-Fi RT-N12D1
+Enrutador de configuración protegida Wi-Fi RT-N12VP
+Punto de acceso inalámbrico .
+Enrutador inalámbrico 123456
+Enrutador inalámbrico RTL8xxx EV-2009-02-06
+Enrutador WPS inalámbrico <#ZVMODELVZ#>
+Enrutador inalámbrico WPS RT-N10E
+Enrutador inalámbrico WPS RT-N10LX
+Enrutador inalámbrico WPS RT-N12E
+Enrutador inalámbrico WPS RT-N12LX
+WN3000RP V3
+WN-200R WN-200R
+Enrutador WPS (5G) RT-N65U
+Enrutador WPS DSL-AC51
+Enrutador WPS DSL-AC52U
+Enrutador WPS DSL-AC55U
+Enrutador WPS DSL-N14U-B1
+Enrutador WPS DSL-N16
+Enrutador WPS DSL-N17U
+Enrutador WPS RT-AC750
+Enrutador WPS RT-AC1200
+Enrutador WPS RT-AC1200_V2
+Enrutador WPS RT-AC1750
+Enrutador WPS RT-AC750L
+Enrutador WPS RT-AC1750U
+Enrutador WPS RT-AC51
+Enrutador WPS RT-AC51U
+Enrutador WPS RT-AC52U
+Enrutador WPS RT-AC52U_B1
+Enrutador WPS RT-AC53
+Enrutador WPS RT-AC57U
+Enrutador WPS RT-AC65P
+Enrutador WPS RT-AC85P
+Enrutador WPS RT-N11P
+Enrutador WPS RT-N12E
+Enrutador WPS RT-N12E_B1
+Enrutador WPS RT-N12 VP
+Enrutador WPS RT-N12+
+Enrutador WPS RT-N14U
+Enrutador WPS RT-N56U
+Enrutador WPS RT-N56UB1
+Enrutador WPS RT-N65U
+Enrutador WPS RT-N300
+Enrutador AP ZyXEL NBG-416N
+Enrutador AP ZyXEL NBG-418N
+Enrutador AP ZyXEL NBG-418N NBG-418N
+Enrutador AP inalámbrico ZyXEL NBG-417N
